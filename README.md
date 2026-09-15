@@ -13,7 +13,7 @@
   <a href="mailto:xiwenpp@163.com"><img src="https://img.shields.io/badge/Email-xiwenpp@163.com-2F81F7?style=flat-square" alt="Email" /></a>
 </p>
 
-<a href="https://github.com/li1164267803/li1164267803/blob/main/%E9%A1%B9%E7%9B%AE%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md"><img src="https://img.shields.io/badge/%F0%9F%93%96_%E6%9F%A5%E7%9C%8B%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%E7%BB%8F%E5%8E%86-%E2%86%92-2F81F7?style=for-the-badge" alt="查看完整项目经历" /></a>
+<a href="https://github.com/li1164267803/li1164267803/blob/main/%E9%A1%B9%E7%9B%AE%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md"><img src="https://img.shields.io/badge/%F0%9F%93%96_%E6%9F%A5%E7%9C%8B%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%E7%BB%8F%E5%8E%86-%E2%86%92-1F6FEB?style=for-the-badge&labelColor=2F81F7" alt="查看完整项目经历" /></a>
 
 </div>
 
