@@ -18,7 +18,7 @@
 ## 🙋 关于我
 
 - 🤖 **AI 全栈工程师**，前端出身，近两年专注**海外 AI 产品**：AI 视频生成 SaaS 的 Web 编辑器、AI 内容工具与浏览器插件
-- 🐍 **后端与 AI 工程**：1 年 Python 经验，FastAPI / Node.js（Fastify）服务开发，大模型接入、RAG 知识库、SSE 流式输出
+- 🐍 **后端与 AI 工程**：1 年 Python 经验，个人项目中用 FastAPI 接入大模型（OpenAI SDK 兼容接口）、搭建 RAG 知识库与 SSE 流式输出，Node.js（Fastify）服务开发，正在系统学习 Agent 工程
 - 🧩 **全端交付经验**：小程序 / H5 / PC Web / CRM / SaaS 后台 / App / Chrome 插件 / Electron 桌面端
 - 🏥 **行业覆盖**：教育、医疗、海外 AI、直播、IM 即时通讯
 - 🎬 **编辑器与动画**：视频画布编辑器引擎、时间轴播放引擎、GSAP 动效、Three.js 3D 场景
@@ -64,6 +64,7 @@
 - **编辑器即渲染器**：出片录制复用同一套画布逐帧驱动，按媒体 → 首帧稳定 → 动效挂载 → 字体就绪依次判定，保证成片与预览一致
 - **文字自动反色**：沿图层 z 序做 alpha 合成推算文字下方的真实背景（含旋转图层逆变换、视频帧离屏采样），自动选出可读的文字颜色
 - **实时协作**：基于 Yjs / y-websocket 的协作通道，断线整体重建 + 退避重连，统一只读门控
+- **前后端链路**：编辑器对接后端的 SSE 流式生成与异步视频任务；排查并修复 Headless 录制链路中 Playwright 拦截 CDN gzip 资源、导致成片字体丢失的问题
 - GSAP 动效组件、数字人视频页、编辑器浮动工具栏与右键菜单
 
 技术栈：React 19 · TypeScript · Vite · Zustand + immer · react-moveable · TipTap · GSAP · Yjs · MUI · Tailwind · Storybook
@@ -93,6 +94,13 @@
 | **AI 漫剧生产流水线** | 小说 → 角色资产 → 分镜 → AI 视频生成，用机器可读清单驱动多个 Agent 会话接力 | AI 视频生成 · ComfyUI · Agent Skill |
 | [**ease-music**](https://github.com/li1164267803/ease-music) | 开源本地音乐播放器（Android / iOS），分层架构 + 插件化音源 | Expo · React Native · SQLite |
 | [**agent-skills**](https://github.com/li1164267803/agent-skills) | 我自己日常在用的 Claude Code / Codex Agent Skills 合集 | Agent Skill |
+
+## 📚 正在学习
+
+- **AI Agent 工程**：Agent 编排与工作流状态机、Tool Calling、结构化输出与 Prompt 工程、LangGraph
+- **多模型接入**：OpenAI / Gemini / Claude 等模型调用、流式输出、限流与成本控制
+- **AI 视频后端链路**：文档解析 → 脚本生成 → TTS 配音 → 数字人 → Headless 渲染合成
+- **后端基础**：FastAPI、Redis（分布式锁 / Streams 推送）、MySQL / MongoDB、异步任务调度、Docker 部署
 
 ## 🌱 开源贡献
 
