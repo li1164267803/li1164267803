@@ -3,7 +3,7 @@
 # Hi，我是希文 👋
 
 <a href="https://github.com/li1164267803">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90+%C2%B7+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6;%E8%B5%84%E6%B7%B1+Vibe+Coding+%E7%8E%A9%E5%AE%B6" alt="AI 前端开发工程师" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90+%C2%B7+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6;%E8%B5%84%E6%B7%B1+Vibe+Coding+%E7%8E%A9%E5%AE%B6" alt="AI 全栈工程师" />
 </a>
 
 <p>
@@ -17,7 +17,8 @@
 
 ## 🙋 关于我
 
-- 🤖 **AI 前端开发工程师**，近两年专注**海外 AI 产品**：AI 视频生成 SaaS 的 Web 编辑器、AI 内容工具与浏览器插件
+- 🤖 **AI 全栈工程师**，前端出身，近两年专注**海外 AI 产品**：AI 视频生成 SaaS 的 Web 编辑器、AI 内容工具与浏览器插件
+- 🐍 **后端与 AI 工程**：1 年 Python 经验，FastAPI / Node.js（Fastify）服务开发，大模型接入、RAG 知识库、SSE 流式输出
 - 🧩 **全端交付经验**：小程序 / H5 / PC Web / CRM / SaaS 后台 / App / Chrome 插件 / Electron 桌面端
 - 🏥 **行业覆盖**：教育、医疗、海外 AI、直播、IM 即时通讯
 - 🎬 **编辑器与动画**：视频画布编辑器引擎、时间轴播放引擎、GSAP 动效、Three.js 3D 场景
@@ -55,7 +56,7 @@
 
 面向企业培训、产品教程场景：300+ AI 数字人、88 种语言配音，PPT / PDF / 脚本一键生成视频，在线编辑后云端渲染导出。
 
-**我的角色：Web 视频编辑器核心开发者**，团队协作项目中提交量第一（2000+ commits），编辑器核心模块约 60% 代码由我编写。
+**我的角色：Web 视频编辑器核心开发者**
 
 - **自研画布编辑器引擎**：React 19 + react-moveable 的 1920×1080 DOM 画布，支持多选、成组 / 解组（旋转矩阵换算）、对齐吸附、裁剪平移、剪贴板与快捷键，按 core / interactions / history / sync 分层
 - **状态架构与撤销重做**：设计 Zustand 按 Slice 拆分的画布 Store，快照 + 命令混合的撤销重做，保证 Store / DOM / 交互控件三方状态一致
