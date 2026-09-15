@@ -71,11 +71,11 @@
 
 ### 📝 [Lynote](https://lynote.ai) · 海外 AI 内容工具（10 种语言）
 
-| 产品 | 我的工作 | 技术要点 |
-|---|---|---|
-| [YouTube Transcript Generator](https://chromewebstore.google.com/detail/lynote-youtube-transcript/cpdecpnpoaahhdlfjnpokjpemdnjhekf)<br/>Chrome 插件 | **主导开发** | Shadow DOM 注入 YouTube 侧栏并隔离样式与事件；Service Worker 代理请求绕过 CORS；Zustand + `chrome.storage` 跨标签页同步登录态；翻译暂停 / 继续 / 重试状态机；MV3 下通过沙盒 iframe 接入 GA4 |
-| AI Humanizer & Detector<br/>Chrome 插件 | **独立开发** | 划词浮动工具条，首次出现选区才懒加载 Shadow DOM 与 React 树；选区上下自动翻转定位；插件 → 官网带语言前缀的交接协议 |
-| lynote.ai 官网 & SaaS 工具站 | **核心参与** | 旧站迁移 Next.js 15 App Router 与首页 SSR；POST SSE 流式翻译及暂停 / 停止重构；AI 视频总结与分享短链；网页与插件登录态互通；多语言 SEO 与数据埋点 |
+| 产品 | 技术要点 |
+|---|---|
+| [YouTube Transcript Generator](https://chromewebstore.google.com/detail/lynote-youtube-transcript/cpdecpnpoaahhdlfjnpokjpemdnjhekf)<br/>Chrome 插件 | Shadow DOM 注入 YouTube 侧栏并隔离样式与事件；Service Worker 代理请求绕过 CORS；Zustand + `chrome.storage` 跨标签页同步登录态；翻译暂停 / 继续 / 重试状态机；MV3 下通过沙盒 iframe 接入 GA4 |
+| [AI Humanizer & Detector](https://chromewebstore.google.com/detail/lynote-ai-humanizer-detec/egbpdidbaamhhibpipaehgonalpkmmic)<br/>Chrome 插件 | 划词浮动工具条，首次出现选区才懒加载 Shadow DOM 与 React 树；选区上下自动翻转定位；插件 → 官网带语言前缀的交接协议 |
+| [lynote.ai](https://lynote.ai) 官网 & SaaS 工具站 | 旧站迁移 Next.js 15 App Router 与首页 SSR；POST SSE 流式翻译及暂停 / 停止重构；AI 视频总结与分享短链；网页与插件登录态互通；多语言 SEO 与数据埋点 |
 
 技术栈：WXT · React 19 · Next.js 15 · TypeScript · Zustand · Tailwind · antd / MUI · next-intl / i18next
 
