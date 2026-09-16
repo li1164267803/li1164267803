@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hi，我是希文 👋
+[English](PROJECTS.md) · **简体中文** · [← 回到主页](README.zh-CN.md)
+
+# 完整项目经历 · Colin
 
 <a href="https://github.com/li1164267803">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90+%C2%B7+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6;%E8%B5%84%E6%B7%B1+Vibe+Coding+%E7%8E%A9%E5%AE%B6" alt="AI 全栈工程师" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E;%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E+%C2%B7+%E5%BC%80%E6%BA%90%E7%BB%B4%E6%8A%A4" alt="AI 全栈工程师" />
 </a>
 
 <p>
@@ -22,7 +24,7 @@
 - 🧩 **全端交付经验**：小程序 / H5 / PC Web / CRM / SaaS 后台 / App / Chrome 插件 / Electron 桌面端
 - 🏥 **行业覆盖**：教育、医疗、海外 AI、直播、IM 即时通讯
 - 🎬 **编辑器与动画**：视频画布编辑器引擎、时间轴播放引擎、GSAP 动效、Three.js 3D 场景
-- ⚡ **资深 Vibe Coding 玩家**：日常用 Claude Code / Cursor / ChatGPT 做需求拆解、编码、Review 与自动化，自己写 Agent Skill 提效
+- ⚡ **AI 辅助工程**：日常用 Claude Code / Cursor 做需求拆解、编码、Review 与自动化，自己写 Agent Skill 提效
 - 📱 曾运营 **30w+ 粉丝**抖音账号，正在分享 AI 编程与 AI 工具实战
 
 ## 🛠 技术栈
@@ -102,9 +104,22 @@
 - **AI 视频后端链路**：文档解析 → 脚本生成 → TTS 配音 → 数字人 → Headless 渲染合成
 - **后端基础**：FastAPI、Redis（分布式锁 / Streams 推送）、MySQL / MongoDB、异步任务调度、Docker 部署
 
-## 🌱 开源贡献
+## 🌱 开源
+
+### [daybrush/moveable](https://github.com/daybrush/moveable) · 协助维护中
+
+我在生产环境的视频编辑器里基于 `react-moveable` 做画布交互，已在 [#1156](https://github.com/daybrush/moveable/issues/1156) 提出协助维护，目前等作者回复。
+
+想带上游的能力：
+
+- **可持久化的组**：合组 / 解组 / 旋转作为真实可序列化的实体，而不是运行时的 `targets` 数组 —— 组本身是一个图层，能存盘、能重新加载、能嵌套
+- **组内递归缩放**：按子元素类型分发（文本走 font-size、媒体走内部裁剪偏移、SVG 走 viewport 尺寸），而不是统一套 scale
+- **旋转吸附**：跨 −180/180 边界的角度归一化与吸附阈值
+
+### 其它
 
 - [colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)：修复导入超大资源文件导致整个代码索引 OOM 的问题，附回归测试（Open）
+- [xiwen-html2canvas](https://github.com/li1164267803/xiwen-html2canvas)：针对 html2canvas 生成图片不清晰，额外加了两个 API
 
 ## 📊 GitHub 动态
 

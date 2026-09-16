@@ -1,30 +1,33 @@
 <div align="center">
 
-# Hi，我是希文 👋
+**English** · [简体中文](README.zh-CN.md)
+
+# Hi, I'm Colin 👋
 
 <a href="https://github.com/li1164267803">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90+%C2%B7+%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6;%E8%B5%84%E6%B7%B1+Vibe+Coding+%E7%8E%A9%E5%AE%B6" alt="AI 全栈工程师" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Full-Stack+Engineer;AI+Video+SaaS+%C2%B7+Web+Canvas+Editor;Editor+Engines+%C2%B7+Open+Source" alt="AI Full-Stack Engineer" />
 </a>
 
 <p>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAlJlcNMyzb8sTPP6J9vip0pnzAuAHiHN7_aBNztGQX-k"><img src="https://img.shields.io/badge/抖音-AI_内容分享-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音" /></a>
-  <a href="https://blog.csdn.net/weixin_44309374"><img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a>
   <a href="https://www.npmjs.com/~li1164267803"><img src="https://img.shields.io/badge/npm-li1164267803-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="https://blog.csdn.net/weixin_44309374"><img src="https://img.shields.io/badge/Blog-CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAlJlcNMyzb8sTPP6J9vip0pnzAuAHiHN7_aBNztGQX-k"><img src="https://img.shields.io/badge/Douyin-AI_Content-000000?style=flat-square&logo=tiktok&logoColor=white" alt="Douyin" /></a>
   <a href="mailto:xiwenpp@163.com"><img src="https://img.shields.io/badge/Email-xiwenpp@163.com-2F81F7?style=flat-square" alt="Email" /></a>
 </p>
 
-<a href="https://github.com/li1164267803/li1164267803/blob/main/%E9%A1%B9%E7%9B%AE%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md"><img src="https://img.shields.io/badge/%F0%9F%93%96_%E6%9F%A5%E7%9C%8B%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE%E7%BB%8F%E5%8E%86-%E2%86%92-1F6FEB?style=for-the-badge&labelColor=2F81F7" alt="查看完整项目经历" /></a>
+<a href="PROJECTS.md"><img src="https://img.shields.io/badge/%F0%9F%93%96_Full_project_history-%E2%86%92-1F6FEB?style=for-the-badge&labelColor=2F81F7" alt="Full project history" /></a>
 
 </div>
 
-## 🙋 关于我
+## 🙋 About me
 
-- 🤖 **AI 全栈工程师**，前端出身，近两年专注海外 AI 产品：视频生成编辑器、AI 内容工具、浏览器插件
-- 🧩 做过小程序 / H5 / PC / CRM / SaaS / App / Chrome 插件 / Electron，覆盖教育、医疗、直播、IM 等行业
-- 🐍 1 年 Python 经验，正在深入学习 Agent 编排与大模型应用开发
-- ⚡ 资深 Vibe Coding 玩家，曾运营 30w+ 粉丝抖音账号，正在分享 AI 编程实战
+- 🤖 **AI full-stack engineer**, frontend by background. For the past two years I've worked on AI products for overseas markets: an AI video generation SaaS, AI content tools, and browser extensions.
+- 🎬 My main craft is **editor engines** — a DOM-based 1920×1080 canvas editor, undo/redo, a frame-accurate timeline playback engine, GSAP animation, and Yjs real-time collaboration.
+- 🧩 Shipped across mini programs / H5 / desktop web / CRM / SaaS / mobile apps / Chrome extensions / Electron, in education, healthcare, live streaming and IM.
+- 🐍 One year of Python; building RAG pipelines and LLM applications with FastAPI, and going deeper into agent orchestration.
+- 🌱 I maintain and contribute to open source around **canvas interaction and transform tooling** — see below.
 
-## 🛠 技术栈
+## 🛠 Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,tailwind,vite,flutter,electron,nodejs,py,fastapi,threejs,docker&perline=13" alt="tech stack" />
@@ -33,41 +36,47 @@
 <p>
   <img src="https://img.shields.io/badge/uni--app-2B9939?style=flat-square" alt="uni-app" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+  <img src="https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Yjs-30BCED?style=flat-square" alt="Yjs" />
+  <img src="https://img.shields.io/badge/TipTap-1A1A1A?style=flat-square" alt="TipTap" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square" alt="ChatGPT" />
 </p>
 
-## 💼 代表作品
+## 🌱 Open source
 
-**🎬 [Leadde](https://leadde.ai)** · 海外 AI 视频生成 SaaS（对标 HeyGen / Synthesia）
+- **[daybrush/moveable](https://github.com/daybrush/moveable)** — I build on `react-moveable` in production and have offered to help maintain it: [#1156](https://github.com/daybrush/moveable/issues/1156). The work I'd like to bring upstream is **persistent groups** — group / ungroup / rotate as real, serializable entities rather than a runtime `targets` array — plus rotation snapping across the −180/180 boundary. Currently waiting on the author.
+- **[colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)** — fixed an OOM that took down the whole code index when an oversized asset file was imported, with a regression test.
+- **[agent-skills](https://github.com/li1164267803/agent-skills)** — the Claude Code / Codex agent skills I actually use day to day.
+- **[ease-music](https://github.com/li1164267803/ease-music)** — open-source local music player for Android and iOS. No built-in sources; it plays only the music you already own.
+- **[xiwen-html2canvas](https://github.com/li1164267803/xiwen-html2canvas)** — two extra APIs on top of html2canvas to fix blurry output.
 
-Web 视频编辑器核心开发：自研 DOM 画布编辑器、撤销重做、时间轴预览播放引擎、GSAP 动效、Yjs 实时协作
+## 💼 Selected work
 
-**📝 [Lynote](https://lynote.ai)** · 海外 AI 内容工具
+**🎬 [Leadde](https://leadde.ai)** · AI video generation SaaS (in the HeyGen / Synthesia space)
 
-- [YouTube Transcript Generator](https://chromewebstore.google.com/detail/lynote-youtube-transcript/cpdecpnpoaahhdlfjnpokjpemdnjhekf)：YouTube 字幕生成、翻译与 AI 总结插件
-- [AI Humanizer & Detector](https://chromewebstore.google.com/detail/lynote-ai-humanizer-detec/egbpdidbaamhhibpipaehgonalpkmmic)：划词 AI 改写与检测插件
-- [lynote.ai](https://lynote.ai) 官网：Next.js SSR、SSE 流式翻译、10 种语言
+Core developer of the web video editor: an in-house DOM canvas editor, undo/redo, the timeline preview playback engine, GSAP animation, and Yjs real-time collaboration.
 
-**🖥 桌面自动化客户端** · Electron + Python 双进程，含授权服务与自动更新
+**📝 [Lynote](https://lynote.ai)** · AI content tools
 
-> 📖 每个项目的技术实现细节见 **[完整项目经历](https://github.com/li1164267803/li1164267803/blob/main/%E9%A1%B9%E7%9B%AE%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)**
+- [YouTube Transcript Generator](https://chromewebstore.google.com/detail/lynote-youtube-transcript/cpdecpnpoaahhdlfjnpokjpemdnjhekf) — transcript, translation and AI summary for YouTube
+- [AI Humanizer & Detector](https://chromewebstore.google.com/detail/lynote-ai-humanizer-detec/egbpdidbaamhhibpipaehgonalpkmmic) — select-to-rewrite and AI detection
+- [lynote.ai](https://lynote.ai) — Next.js SSR, SSE streaming translation, 10 languages
 
-## 🧪 个人项目
+**🖥 Desktop automation client** · Electron + Python dual-process, with a licensing service and signed auto-update
 
-- **山河纪**：中国历史 3D 沙盘（Next.js · Three.js）
-- **Claudio**：Claude Code 驱动的 AI 电台（Node.js · TTS）
-- **AI 文化解读 App**：大模型 + RAG 知识库（React Native · FastAPI）
-- [**ease-music**](https://github.com/li1164267803/ease-music)：开源本地音乐播放器（React Native）
-- [**agent-skills**](https://github.com/li1164267803/agent-skills)：Claude Code / Codex Agent Skills 合集
-- 开源贡献：[codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288) 修复超大文件导致索引 OOM
+> 📖 Implementation details for each project: **[full project history](PROJECTS.md)**
 
-## 📊 GitHub 动态
+## 🧪 Side projects
+
+- **Shanhe Ji** — a 3D sandbox of Chinese history (Next.js · Three.js)
+- **Claudio** — an AI radio station where Claude Code plays DJ (Node.js · TTS)
+- **AI culture app** — LLM + RAG knowledge base (React Native · FastAPI)
+
+## 📊 GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake-dark.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake.svg" />
 </picture>
