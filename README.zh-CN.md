@@ -46,7 +46,7 @@
 
 ## 🌱 开源
 
-- **[daybrush/moveable](https://github.com/daybrush/moveable)** —— 我在生产环境里基于 `react-moveable` 做编辑器，已在 [#1156](https://github.com/daybrush/moveable/issues/1156) 提出协助维护。想带上游的是**可持久化的组**：合组 / 解组 / 旋转作为真实可序列化的实体，而不是运行时的 `targets` 数组；以及跨 −180/180 边界的旋转吸附。目前等作者回复。
+- **[daybrush/moveable](https://github.com/daybrush/moveable)** —— 我在生产环境里基于 `react-moveable` 做编辑器，已在 [#1156](https://github.com/daybrush/moveable/issues/1156) 提出协助维护。想带上游的是**可持久化的组**（合组 / 解组作为真实可序列化的实体，而不是运行时的 `targets` 数组，对应开了两年的 [#1133](https://github.com/daybrush/moveable/issues/1133)），以及**按子元素类型分发的组内递归缩放**（文本、SVG、被裁剪的媒体各自正确缩放，而不是统一套一个 scale，对应 [#1020](https://github.com/daybrush/moveable/issues/1020)）。目前等作者回复。
 - **[colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)** —— 修复导入超大资源文件导致整个代码索引 OOM 的问题，附回归测试。
 - **[agent-skills](https://github.com/li1164267803/agent-skills)** —— 我自己日常在用的 Claude Code / Codex Agent Skills 合集。
 - **[ease-music](https://github.com/li1164267803/ease-music)** —— 开源本地音乐播放器（Android / iOS），不内置音源，只播你已经拥有的音乐。

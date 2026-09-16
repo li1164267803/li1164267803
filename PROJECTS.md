@@ -85,9 +85,8 @@ I build canvas interaction on `react-moveable` in a production video editor. I'v
 
 What I'd like to bring upstream:
 
-- **Persistent groups** — group / ungroup / rotate as real, serializable entities rather than a runtime `targets` array: the group is itself a layer that can be saved, reloaded and nested
-- **Recursive group resize** — dispatched by child type (font-size for text, inner crop offsets for media, viewport dimensions for SVG) instead of one uniform scale
-- **Rotation snapping** — angle normalisation and snap thresholds that hold across the −180/180 boundary
+- **Persistent groups** ([#1133](https://github.com/daybrush/moveable/issues/1133), open since 2024) — group / ungroup as real, serializable entities rather than a runtime `targets` array: the group is itself a layer that can be saved, reloaded and nested
+- **Recursive group resize** ([#1020](https://github.com/daybrush/moveable/issues/1020)) — dispatched by child type (font-size for text, inner crop offsets for media, viewport dimensions for SVG) instead of one uniform scale
 
 ### Other
 

@@ -46,7 +46,7 @@
 
 ## 🌱 Open source
 
-- **[daybrush/moveable](https://github.com/daybrush/moveable)** — I build on `react-moveable` in production and have offered to help maintain it: [#1156](https://github.com/daybrush/moveable/issues/1156). The work I'd like to bring upstream is **persistent groups** — group / ungroup / rotate as real, serializable entities rather than a runtime `targets` array — plus rotation snapping across the −180/180 boundary. Currently waiting on the author.
+- **[daybrush/moveable](https://github.com/daybrush/moveable)** — I build on `react-moveable` in production and have offered to help maintain it: [#1156](https://github.com/daybrush/moveable/issues/1156). The work I'd like to bring upstream is **persistent groups** — group / ungroup as real, serializable entities rather than a runtime `targets` array ([#1133](https://github.com/daybrush/moveable/issues/1133) has been open since 2024) — and **recursive group resize dispatched by child type**, so text, SVG and cropped media each scale correctly instead of taking one uniform scale ([#1020](https://github.com/daybrush/moveable/issues/1020)). Currently waiting on the author.
 - **[colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)** — fixed an OOM that took down the whole code index when an oversized asset file was imported, with a regression test.
 - **[agent-skills](https://github.com/li1164267803/agent-skills)** — the Claude Code / Codex agent skills I actually use day to day.
 - **[ease-music](https://github.com/li1164267803/ease-music)** — open-source local music player for Android and iOS. No built-in sources; it plays only the music you already own.
