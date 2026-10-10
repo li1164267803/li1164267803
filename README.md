@@ -4,7 +4,7 @@
 
 # Hi, I'm Colin 👋
 
-<a href="https://github.com/li1164267803">
+<a href="https://github.com/colinli007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Full-Stack+Engineer;AI+Video+SaaS+%C2%B7+Web+Canvas+Editor;Editor+Engines+%C2%B7+Open+Source" alt="AI Full-Stack Engineer" />
 </a>
 
@@ -48,9 +48,9 @@
 
 - **[daybrush/moveable](https://github.com/daybrush/moveable)** — I build on `react-moveable` in production and have offered to help maintain it: [#1156](https://github.com/daybrush/moveable/issues/1156). The work I'd like to bring upstream is **persistent groups** — group / ungroup as real, serializable entities rather than a runtime `targets` array ([#1133](https://github.com/daybrush/moveable/issues/1133) has been open since 2024) — and **recursive group resize dispatched by child type**, so text, SVG and cropped media each scale correctly instead of taking one uniform scale ([#1020](https://github.com/daybrush/moveable/issues/1020)). Currently waiting on the author.
 - **[colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)** — fixed an OOM that took down the whole code index when an oversized asset file was imported, with a regression test.
-- **[agent-skills](https://github.com/li1164267803/agent-skills)** — the Claude Code / Codex agent skills I actually use day to day.
-- **[ease-music](https://github.com/li1164267803/ease-music)** — open-source local music player for Android and iOS. No built-in sources; it plays only the music you already own.
-- **[xiwen-html2canvas](https://github.com/li1164267803/xiwen-html2canvas)** — two extra APIs on top of html2canvas to fix blurry output.
+- **[agent-skills](https://github.com/colinli007/agent-skills)** — the Claude Code / Codex agent skills I actually use day to day.
+- **[ease-music](https://github.com/colinli007/ease-music)** — open-source local music player for Android and iOS. No built-in sources; it plays only the music you already own.
+- **[xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas)** — two extra APIs on top of html2canvas to fix blurry output.
 
 ## 💼 Selected work
 
@@ -77,6 +77,6 @@ Core developer of the web video editor: an in-house DOM canvas editor, undo/redo
 ## 📊 GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
 </picture>

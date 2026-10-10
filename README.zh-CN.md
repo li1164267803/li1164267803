@@ -4,7 +4,7 @@
 
 # Hi，我是 Colin 👋
 
-<a href="https://github.com/li1164267803">
+<a href="https://github.com/colinli007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E;%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E+%C2%B7+%E5%BC%80%E6%BA%90%E7%BB%B4%E6%8A%A4" alt="AI 全栈工程师" />
 </a>
 
@@ -48,9 +48,9 @@
 
 - **[daybrush/moveable](https://github.com/daybrush/moveable)** —— 我在生产环境里基于 `react-moveable` 做编辑器，已在 [#1156](https://github.com/daybrush/moveable/issues/1156) 提出协助维护。想带上游的是**可持久化的组**（合组 / 解组作为真实可序列化的实体，而不是运行时的 `targets` 数组，对应开了两年的 [#1133](https://github.com/daybrush/moveable/issues/1133)），以及**按子元素类型分发的组内递归缩放**（文本、SVG、被裁剪的媒体各自正确缩放，而不是统一套一个 scale，对应 [#1020](https://github.com/daybrush/moveable/issues/1020)）。目前等作者回复。
 - **[colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)** —— 修复导入超大资源文件导致整个代码索引 OOM 的问题，附回归测试。
-- **[agent-skills](https://github.com/li1164267803/agent-skills)** —— 我自己日常在用的 Claude Code / Codex Agent Skills 合集。
-- **[ease-music](https://github.com/li1164267803/ease-music)** —— 开源本地音乐播放器（Android / iOS），不内置音源，只播你已经拥有的音乐。
-- **[xiwen-html2canvas](https://github.com/li1164267803/xiwen-html2canvas)** —— 针对 html2canvas 生成图片不清晰，额外加了两个 API。
+- **[agent-skills](https://github.com/colinli007/agent-skills)** —— 我自己日常在用的 Claude Code / Codex Agent Skills 合集。
+- **[ease-music](https://github.com/colinli007/ease-music)** —— 开源本地音乐播放器（Android / iOS），不内置音源，只播你已经拥有的音乐。
+- **[xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas)** —— 针对 html2canvas 生成图片不清晰，额外加了两个 API。
 
 ## 💼 代表作品
 
@@ -77,6 +77,6 @@ Web 视频编辑器核心开发：自研 DOM 画布编辑器、撤销重做、�
 ## 📊 GitHub 动态
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake-dark.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
 </picture>

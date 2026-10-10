@@ -4,7 +4,7 @@
 
 # Full project history · Colin
 
-<a href="https://github.com/li1164267803">
+<a href="https://github.com/colinli007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+Full-Stack+Engineer;AI+Video+SaaS+%C2%B7+Web+Canvas+Editor;Editor+Engines+%C2%B7+Open+Source" alt="AI Full-Stack Engineer" />
 </a>
 
@@ -91,7 +91,7 @@ What I'd like to bring upstream:
 ### Other
 
 - [colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288) — fixed an OOM that took down the whole code index when an oversized asset file was imported, with a regression test (open)
-- [xiwen-html2canvas](https://github.com/li1164267803/xiwen-html2canvas) — two extra APIs on top of html2canvas to fix blurry output
+- [xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas) — two extra APIs on top of html2canvas to fix blurry output
 
 ## 🧪 AI and side projects
 
@@ -101,8 +101,8 @@ What I'd like to bring upstream:
 | **Claudio** | A personal AI radio station — Claude Code is the DJ brain choosing tracks and links, delivered over TTS | Node.js · React PWA · WebSocket · TTS |
 | **AI culture app** | A mobile AI app with switchable LLM providers and a RAG knowledge base | React Native (Expo) · FastAPI · RAG · SSE |
 | **AI comic-drama pipeline** | Novel → character assets → storyboard → AI video, with machine-readable manifests relaying work across agent sessions | AI video generation · ComfyUI · Agent Skill |
-| [**ease-music**](https://github.com/li1164267803/ease-music) | Open-source local music player (Android / iOS), layered architecture with pluggable sources | Expo · React Native · SQLite |
-| [**agent-skills**](https://github.com/li1164267803/agent-skills) | The Claude Code / Codex agent skills I use day to day | Agent Skill |
+| [**ease-music**](https://github.com/colinli007/ease-music) | Open-source local music player (Android / iOS), layered architecture with pluggable sources | Expo · React Native · SQLite |
+| [**agent-skills**](https://github.com/colinli007/agent-skills) | The Claude Code / Codex agent skills I use day to day | Agent Skill |
 
 ## 📚 Currently learning
 
@@ -114,6 +114,6 @@ What I'd like to bring upstream:
 ## 📊 GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
 </picture>

@@ -4,7 +4,7 @@
 
 # 完整项目经历 · Colin
 
-<a href="https://github.com/li1164267803">
+<a href="https://github.com/colinli007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E;%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E+%C2%B7+%E5%BC%80%E6%BA%90%E7%BB%B4%E6%8A%A4" alt="AI 全栈工程师" />
 </a>
 
@@ -94,8 +94,8 @@
 | **Claudio** | 个人 AI 电台：用 Claude Code 当 DJ 大脑决定播放与串词，TTS 语音播报 | Node.js · React PWA · WebSocket · TTS |
 | **AI 传统文化解读 App** | 移动端 AI 应用，可切换多家大模型，RAG 知识库增强回答 | React Native (Expo) · FastAPI · RAG · SSE |
 | **AI 漫剧生产流水线** | 小说 → 角色资产 → 分镜 → AI 视频生成，用机器可读清单驱动多个 Agent 会话接力 | AI 视频生成 · ComfyUI · Agent Skill |
-| [**ease-music**](https://github.com/li1164267803/ease-music) | 开源本地音乐播放器（Android / iOS），分层架构 + 插件化音源 | Expo · React Native · SQLite |
-| [**agent-skills**](https://github.com/li1164267803/agent-skills) | 我自己日常在用的 Claude Code / Codex Agent Skills 合集 | Agent Skill |
+| [**ease-music**](https://github.com/colinli007/ease-music) | 开源本地音乐播放器（Android / iOS），分层架构 + 插件化音源 | Expo · React Native · SQLite |
+| [**agent-skills**](https://github.com/colinli007/agent-skills) | 我自己日常在用的 Claude Code / Codex Agent Skills 合集 | Agent Skill |
 
 ## 📚 正在学习
 
@@ -118,11 +118,11 @@
 ### 其它
 
 - [colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)：修复导入超大资源文件导致整个代码索引 OOM 的问题，附回归测试（Open）
-- [xiwen-html2canvas](https://github.com/li1164267803/xiwen-html2canvas)：针对 html2canvas 生成图片不清晰，额外加了两个 API
+- [xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas)：针对 html2canvas 生成图片不清晰，额外加了两个 API
 
 ## 📊 GitHub 动态
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake-dark.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/li1164267803/li1164267803/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
 </picture>
